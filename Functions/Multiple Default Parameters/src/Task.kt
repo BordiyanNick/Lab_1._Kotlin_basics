@@ -1,0 +1,1 @@
+fun buildMessage(text: String, level: String = "INFO") = "[$level] $text"
